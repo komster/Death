@@ -1,0 +1,6 @@
+echo "# Death-row" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/komster/Death-row.git
+git push -u origin master
